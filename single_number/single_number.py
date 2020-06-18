@@ -13,6 +13,8 @@ def single_number(arr):
             return i
 
 
+# more efficient way is to use a set
+
 if __name__ == "__main__":
     # Use the main function to test your implementation
     arr = [1, 1, 4, 4, 5, 5, 3, 3, 9, 0, 0]
